@@ -31,7 +31,7 @@ Para executar o projeto, basta fazer o download ou clonar este repositório em s
 
 Este projeto é licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
-![Screenshot do Site](https://imgur.com/BoBFk1G.png)
+![Screenshot do Site](https://imgur.com/OSPOs7R.png)
 
 
 
