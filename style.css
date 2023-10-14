@@ -34,12 +34,8 @@ h2 {
     margin-bottom: 32px;
 }
 
-html {
-    overflow-x: hidden;
-
-}
-
 body {
+    overflow-x: hidden;
     scroll-behavior: smooth;
     color: #263138;
 }
