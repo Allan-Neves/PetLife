@@ -4,7 +4,7 @@ Esse é um código que eu fiz com o auxílio do minicurso da [OneBitCode](https:
 
 ## Demo
 
-[Clique aqui](https://allan-carlos.github.io/PetLife/) e você será redirecionado(a) para o site.
+[Clique aqui](https://allan-neves.github.io/PetLife/) e você será redirecionado(a) para o site.
 
 ## Tecnologias Usadas
 
